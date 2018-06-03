@@ -3,7 +3,7 @@ Generates models of precomputed diffuse radiance transfer in different file form
 
 Generated files can be used in [prt demo](https://github.com/jaliborc/prt-demo) and used in [prt analyser](https://github.com/jaliborc/prt-analyser). For example inputs or already generated files, see [releases](https://github.com/Jaliborc/prt-demo/releases).
 
-## Formats
+### Formats
 The transfer formats are as follow:
 * .pgt - Precomputed Geometry and Transfer
 * .npgt - Precomputed Geometry and Transfer in Native (binary) Encoding
